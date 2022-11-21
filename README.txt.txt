@@ -1,0 +1,1 @@
+This is my solutions of some leet code question in c# language.
